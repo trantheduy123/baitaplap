@@ -1,0 +1,8 @@
+C:\Users\trant\source\repos\C#\btlap3\btlap3\BLap6_b2\BLap6_b2\bin\Debug\BLap6_b2.exe.config
+C:\Users\trant\source\repos\C#\btlap3\btlap3\BLap6_b2\BLap6_b2\bin\Debug\BLap6_b2.exe
+C:\Users\trant\source\repos\C#\btlap3\btlap3\BLap6_b2\BLap6_b2\bin\Debug\BLap6_b2.pdb
+C:\Users\trant\source\repos\C#\btlap3\btlap3\BLap6_b2\BLap6_b2\obj\Debug\BLap6_b2.csproj.AssemblyReference.cache
+C:\Users\trant\source\repos\C#\btlap3\btlap3\BLap6_b2\BLap6_b2\obj\Debug\BLap6_b2.csproj.SuggestedBindingRedirects.cache
+C:\Users\trant\source\repos\C#\btlap3\btlap3\BLap6_b2\BLap6_b2\obj\Debug\BLap6_b2.csproj.CoreCompileInputs.cache
+C:\Users\trant\source\repos\C#\btlap3\btlap3\BLap6_b2\BLap6_b2\obj\Debug\BLap6_b2.exe
+C:\Users\trant\source\repos\C#\btlap3\btlap3\BLap6_b2\BLap6_b2\obj\Debug\BLap6_b2.pdb

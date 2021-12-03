@@ -1,0 +1,8 @@
+C:\Users\trant\source\repos\C#\btlap3\btlap3\BaiTapLuyenTap\BaiTapLuyenTap\bin\Debug\BaiTapLuyenTap.exe.config
+C:\Users\trant\source\repos\C#\btlap3\btlap3\BaiTapLuyenTap\BaiTapLuyenTap\bin\Debug\BaiTapLuyenTap.exe
+C:\Users\trant\source\repos\C#\btlap3\btlap3\BaiTapLuyenTap\BaiTapLuyenTap\bin\Debug\BaiTapLuyenTap.pdb
+C:\Users\trant\source\repos\C#\btlap3\btlap3\BaiTapLuyenTap\BaiTapLuyenTap\obj\Debug\BaiTapLuyenTap.csproj.AssemblyReference.cache
+C:\Users\trant\source\repos\C#\btlap3\btlap3\BaiTapLuyenTap\BaiTapLuyenTap\obj\Debug\BaiTapLuyenTap.csproj.SuggestedBindingRedirects.cache
+C:\Users\trant\source\repos\C#\btlap3\btlap3\BaiTapLuyenTap\BaiTapLuyenTap\obj\Debug\BaiTapLuyenTap.csproj.CoreCompileInputs.cache
+C:\Users\trant\source\repos\C#\btlap3\btlap3\BaiTapLuyenTap\BaiTapLuyenTap\obj\Debug\BaiTapLuyenTap.exe
+C:\Users\trant\source\repos\C#\btlap3\btlap3\BaiTapLuyenTap\BaiTapLuyenTap\obj\Debug\BaiTapLuyenTap.pdb
