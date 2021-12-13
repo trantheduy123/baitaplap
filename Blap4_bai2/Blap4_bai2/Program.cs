@@ -4,35 +4,43 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Blap4_bai2
+namespace Blap4_Bai2
 {
     internal class Program
     {
-        private static object letter;
-
         static void Main(string[] args)
-        {    
-            {  
-                    for (char letter = 'A'; letter <= 'Z'; letter++)
-                    {
-                        Console.WriteLine(letter);
-                    }
-             }
-                for (char number = '0'; number <= '9'; number++)
-                {
-                    Console.WriteLine(number);
-                }
-                 for (char letter = '!';  <= '+'; letter++)
+        {
+            string str;
+            int chu_so, chu_cai, ki_tu_dac_biet, i, l;
+            chu_cai = chu_so = ki_tu_dac_biet = i = 0;
+
+            Console.Write("moi ban nhap 1 ky tu ban phim :  ");
+            str = Console.ReadLine();
+            //  l = str.Length;
+            //while (true)
             {
-                Console.WriteLine(letter);
+                if ((str[i] >= 'a' && str[i] <= 'z') || (str[i] >= 'A' && str[i] <= 'Z'))
+                {
+                    Console.WriteLine("day la chu thuong");
+                   
+                }
+                else if (str[i] >= '0' && str[i] <= '9')
+                {
+                    Console.WriteLine("day la chu so");
+                   
+                }
+                else if ( str.Contains(" "))
+                {
+                    Console.WriteLine("out");
+                }
+                else
+                {
+                    Console.WriteLine("day la ky tu dat biet");
+                   
+                }
+
+             
             }
-        }
-
-
-
-
-
-
         }
     }
 }

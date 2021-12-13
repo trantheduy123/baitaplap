@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{480E1B00-2AA2-4B66-956F-777334DCAD93}</ProjectGuid>
+    <ProjectGuid>{15BD3D85-AAEA-43B1-96E5-268A9816C5D4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Blap4_bai2</RootNamespace>
-    <AssemblyName>Blap4_bai2</AssemblyName>
+    <RootNamespace>Blap4_Bai2</RootNamespace>
+    <AssemblyName>Blap4_Bai2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

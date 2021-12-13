@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Blap4_bai2")]
+[assembly: AssemblyTitle("Blap4_Bai2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Blap4_bai2")]
+[assembly: AssemblyProduct("Blap4_Bai2")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("480e1b00-2aa2-4b66-956f-777334dcad93")]
+[assembly: Guid("15bd3d85-aaea-43b1-96e5-268a9816c5d4")]
 
 // Version information for an assembly consists of the following four values:
 //
